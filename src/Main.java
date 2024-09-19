@@ -37,5 +37,10 @@ public class Main {
         intDifference = intOperandA - intOperandB;
 
 
+       double lunchCost = 15.50;
+
+
+
+
     }
 }
